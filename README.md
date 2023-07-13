@@ -1,8 +1,9 @@
-Please go under edit and edit this file as needed for your project
+
 
 # Project Name - Online shopping and retail system
 # Batch - METRO_WD
-### Group Leader - IT21194726 - Miss.Fazla H.N.F (IT21194726)
+### Group Leader - IT21194726 - Miss.Fazla H.N.F (IT21194726) Supplier Supplier transactioon and inventory managemnet
+
 ### Member 2 - IT21068478 - Dharane.S
 ### Member 3 - IT21264634 - Sujitha.S
 ### Member 4 - IT21199776 - Fernando L.S. A
@@ -14,5 +15,5 @@ Please go under edit and edit this file as needed for your project
 #### Brief Description of Project - 
 #### Technologies used - MERN STACK
 
-Note - The student's github account should be given in brackets e.g. (asiriRepos), this ideally should be your student id 
+
 
